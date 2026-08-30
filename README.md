@@ -170,7 +170,7 @@ jupyter notebook
 Open:
 
 ```text
-notebooks/Amazon_Product_Reviews_Analysis.ipynb
+notebooks/amazon_Product_Reviews.ipynb
 ```
 
 ---
