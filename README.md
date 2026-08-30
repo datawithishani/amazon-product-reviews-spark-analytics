@@ -147,33 +147,6 @@ Execution times were compared before and after optimization to evaluate the impa
 
 ---
 
-## 📁 Project Structure
-
-```text
-amazon-product-reviews-spark-analytics/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── notebooks/
-│   └── Amazon_Product_Reviews_Analysis.ipynb
-│
-├── src/
-│   ├── data_loading.py
-│   ├── data_cleaning.py
-│   ├── analytics.py
-│   └── performance_optimization.py
-│
-├── data/
-│   └── README.md
-│
-└── outputs/
-    └── README.md
-```
-
----
-
 ## 🚀 How to Run the Project
 
 ### Clone the repository
